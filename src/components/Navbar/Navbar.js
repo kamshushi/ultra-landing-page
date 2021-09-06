@@ -39,7 +39,7 @@ const Navbar = () => {
       <IconContext.Provider value={{ color: "#fff" }}>
         <Nav>
           <NavbarContainer>
-            <NavLogo to="/">
+            <NavLogo to="/" onClick={() => setClick(false)}>
               <NavIcon />
               ULTRA
             </NavLogo>

@@ -1,7 +1,7 @@
-import analyticsImg from "../../images/analytics.svg";
-import eatingImg from "../../images/eating.svg";
-import syncImg from "../../images/sync.svg";
-import notificationImg from "../../images/notification.svg";
+import analyticsImg from "../images/analytics.svg";
+import eatingImg from "../images/eating.svg";
+import syncImg from "../images/sync.svg";
+import notificationImg from "../images/notification.svg";
 
 export const HomeObj1 = {
   lightBg: false,
